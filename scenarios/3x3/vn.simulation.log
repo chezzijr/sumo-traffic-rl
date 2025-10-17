@@ -1,0 +1,213 @@
+Loading net-file from 'vn.net.xml' ... done (12ms).
+Loading additional-files from 'vtype.xml' ... done (0ms).
+Loading route-files incrementally from 'vn.motorcycle.trips.xml'
+Loading route-files incrementally from 'vn.car.trips.xml'
+Loading route-files incrementally from 'vn.delivery.trips.xml'
+Loading route-files incrementally from 'vn.truck.trips.xml'
+Loading route-files incrementally from 'vn.bus.trips.xml'
+Loading done.
+Simulation started with time: 0.00.
+Warning: Vehicle 'motorcycle_23' performs emergency braking on lane ':J3_18_0' with decel=10.00, wished=4.50, severity=1.00, time=45.90.
+Warning: Vehicle 'motorcycle_26'; junction collision with vehicle 'car_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=55.30, stage=move.
+Warning: Vehicle 'delivery_1'; junction collision with vehicle 'car_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=60.50, stage=move.
+Warning: Vehicle 'motorcycle_91' performs emergency braking on lane 'N_out_9s_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=67.20.
+Warning: Vehicle 'motorcycle_93'; junction collision with vehicle 'delivery_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=86.40, stage=move.
+Warning: Vehicle 'motorcycle_103' performs emergency braking on lane ':J3_13_0' with decel=10.00, wished=4.50, severity=1.00, time=90.90.
+Warning: Vehicle 'motorcycle_4' performs emergency braking on lane 'J4_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=93.40.
+Warning: Vehicle 'motorcycle_91' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=96.20.
+Warning: Vehicle 'motorcycle_152' performs emergency braking on lane 'J3_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=96.70.
+Warning: Vehicle 'motorcycle_19' performs emergency braking on lane 'J9_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=106.90.
+Warning: Vehicle 'motorcycle_170' performs emergency braking on lane 'N_out_3e_to_J3_0' with decel=10.00, wished=4.50, severity=1.00, time=107.30.
+Warning: Vehicle 'motorcycle_65' performs emergency braking on lane 'J4_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=109.80.
+Warning: Vehicle 'motorcycle_65'; junction collision with vehicle 'motorcycle_4', lane=':J1_11_1', gap=-1.00, latGap=0.00, time=110.40, stage=move.
+Warning: Vehicle 'motorcycle_9' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=111.10.
+Warning: Vehicle 'motorcycle_74' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=117.00.
+Warning: Vehicle 'motorcycle_122' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=118.40.
+Warning: Vehicle 'motorcycle_190' performs emergency braking on lane 'N_out_1w_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=119.20.
+Warning: Vehicle 'motorcycle_28' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=124.00.
+Warning: Vehicle 'motorcycle_4' performs emergency braking on lane 'J1_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=130.90.
+Warning: Vehicle 'motorcycle_169' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=135.30.
+Warning: Vehicle 'motorcycle_93' performs emergency braking on lane ':J9_18_0' with decel=10.00, wished=4.50, severity=1.00, time=135.90.
+Warning: Vehicle 'motorcycle_78' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=136.80.
+Warning: Vehicle 'motorcycle_61' performs emergency braking on lane ':J2_16_0' with decel=10.00, wished=4.50, severity=1.00, time=138.40.
+Warning: Vehicle 'motorcycle_182'; junction collision with vehicle 'car_19', lane=':J7_9_0', gap=-1.00, latGap=0.00, time=139.30, stage=move.
+Warning: Vehicle 'bus_0'; junction collision with vehicle 'motorcycle_155', lane=':J8_10_0', gap=-1.00, latGap=0.00, time=139.60, stage=move.
+Warning: Vehicle 'motorcycle_48' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=140.70.
+Warning: Vehicle 'motorcycle_28' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=140.90.
+Warning: Vehicle 'motorcycle_25' performs emergency braking on lane 'J8_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=141.10.
+Warning: Vehicle 'motorcycle_152' performs emergency braking on lane 'J2_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=141.30.
+Warning: Vehicle 'motorcycle_213' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=142.50.
+Warning: Vehicle 'motorcycle_28' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=144.60.
+Warning: Vehicle 'bus_1'; junction collision with vehicle 'bus_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=144.80, stage=move.
+Warning: Vehicle 'motorcycle_25' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=146.80.
+Warning: Vehicle 'motorcycle_175' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=148.60.
+Warning: Vehicle 'motorcycle_214' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=149.70.
+Warning: Vehicle 'motorcycle_254' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=151.40.
+Warning: Vehicle 'motorcycle_73' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=154.30.
+Warning: Vehicle 'car_19'; junction collision with vehicle 'bus_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=157.20, stage=move.
+Warning: Vehicle 'motorcycle_77' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=157.50.
+Warning: Vehicle 'motorcycle_125' performs emergency braking on lane 'J4_to_J7_1' with decel=10.00, wished=4.50, severity=1.00, time=157.60.
+Warning: Vehicle 'motorcycle_182'; junction collision with vehicle 'bus_0', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=159.50, stage=move.
+Warning: Vehicle 'motorcycle_104' performs emergency braking on lane 'J7_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=160.30.
+Warning: Vehicle 'motorcycle_104'; junction collision with vehicle 'motorcycle_281', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=160.50, stage=move.
+Warning: Vehicle 'motorcycle_281' performs emergency braking on lane ':J8_22_0' with decel=10.00, wished=4.50, severity=1.00, time=160.70.
+Warning: Vehicle 'motorcycle_140' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=161.40.
+Warning: Vehicle 'motorcycle_180' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=165.30.
+Warning: Vehicle 'motorcycle_169' performs emergency braking on lane 'J6_to_J3_0' with decel=10.00, wished=4.50, severity=1.00, time=165.60.
+Warning: Vehicle 'motorcycle_284' performs emergency braking on lane 'J9_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=170.50.
+Warning: Vehicle 'motorcycle_111' performs emergency braking on lane 'J8_to_J7_0' with decel=10.00, wished=4.50, severity=1.00, time=179.90.
+Warning: Vehicle 'motorcycle_129' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=180.30.
+Warning: Vehicle 'motorcycle_271' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=180.60.
+Warning: Vehicle 'motorcycle_148' performs emergency braking on lane ':J4_5_0' with decel=10.00, wished=4.50, severity=1.00, time=184.40.
+Warning: Vehicle 'motorcycle_92' performs emergency braking on lane 'J5_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=184.70.
+Warning: Vehicle 'motorcycle_55' performs emergency braking on lane 'J3_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=187.60.
+Warning: Vehicle 'motorcycle_146'; junction collision with vehicle 'motorcycle_248', lane=':J3_25_0', gap=-1.00, latGap=0.00, time=190.30, stage=move.
+Warning: Vehicle 'motorcycle_229' performs emergency braking on lane 'J6_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=197.10.
+Warning: Vehicle 'motorcycle_300' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=200.90.
+Warning: Vehicle 'car_4' performs emergency braking on lane ':J1_25_0' with decel=9.00, wished=4.50, severity=1.00, time=205.20.
+Warning: Vehicle 'motorcycle_39' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=207.80.
+Warning: Vehicle 'motorcycle_306' performs emergency braking on lane 'J7_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=208.70.
+Warning: Vehicle 'motorcycle_336' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=214.80.
+Warning: Vehicle 'motorcycle_311' performs emergency braking on lane 'J6_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=214.80.
+Warning: Vehicle 'motorcycle_39' performs emergency braking on lane 'J3_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=215.30.
+Warning: Vehicle 'motorcycle_185' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=216.80.
+Warning: Vehicle 'motorcycle_324' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=216.90.
+Warning: Vehicle 'motorcycle_185' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=218.20.
+Warning: Vehicle 'motorcycle_131' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=219.20.
+Warning: Vehicle 'motorcycle_260' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=221.40.
+Warning: Vehicle 'motorcycle_211' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=222.20.
+Warning: Vehicle 'motorcycle_137' performs emergency braking on lane 'J2_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=222.50.
+Warning: Vehicle 'motorcycle_320' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=223.40.
+Warning: Vehicle 'motorcycle_211' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=224.00.
+Warning: Vehicle 'motorcycle_310' performs emergency braking on lane 'J7_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=224.60.
+Warning: Vehicle 'motorcycle_317' performs emergency braking on lane ':J6_4_0' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'motorcycle_214' performs emergency braking on lane ':J4_1_1' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'motorcycle_77' performs emergency braking on lane ':J3_19_0' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'motorcycle_102' performs emergency braking on lane ':J3_19_0' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'motorcycle_328' performs emergency braking on lane ':J1_9_0' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'motorcycle_138' performs emergency braking on lane ':J1_9_0' with decel=10.00, wished=4.50, severity=1.00, time=225.90.
+Warning: Vehicle 'car_40' performs emergency braking on lane ':J7_23_0' with decel=9.00, wished=4.50, severity=1.00, time=226.40.
+Warning: Vehicle 'motorcycle_131' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=227.20.
+Warning: Vehicle 'motorcycle_355' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=227.60.
+Warning: Vehicle 'motorcycle_73'; junction collision with vehicle 'car_40', lane=':J7_6_1', gap=-1.00, latGap=0.00, time=228.10, stage=move.
+Warning: Vehicle 'motorcycle_262' performs emergency braking on lane 'J8_to_J7_1' with decel=10.00, wished=4.50, severity=1.00, time=228.20.
+Warning: Vehicle 'motorcycle_165' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=228.30.
+Warning: Vehicle 'motorcycle_310' performs emergency braking on lane 'J7_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=228.40.
+Warning: Vehicle 'motorcycle_247' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=228.40.
+Warning: Vehicle 'motorcycle_236' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=229.40.
+Warning: Vehicle 'motorcycle_140' performs emergency braking on lane 'J2_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=229.60.
+Warning: Vehicle 'car_11'; junction collision with vehicle 'car_22', lane=':J2_9_0', gap=-1.00, latGap=0.00, time=230.10, stage=move.
+Warning: Vehicle 'motorcycle_291' performs emergency braking on lane 'J7_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=231.00.
+Warning: Vehicle 'motorcycle_411' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=231.60.
+Warning: Vehicle 'motorcycle_93' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=232.60.
+Warning: Vehicle 'motorcycle_35' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=232.60.
+Warning: Vehicle 'motorcycle_413' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=232.90.
+Warning: Vehicle 'motorcycle_178' performs emergency braking on lane 'J3_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=234.70.
+Warning: Vehicle 'motorcycle_178' performs emergency braking on lane 'J3_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=235.20.
+Warning: Vehicle 'motorcycle_351' performs emergency braking on lane 'J7_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=235.90.
+Warning: Vehicle 'car_26'; junction collision with vehicle 'motorcycle_157', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=238.00, stage=move.
+Warning: Vehicle 'car_28' performs emergency braking on lane ':J9_6_1' with decel=9.00, wished=4.50, severity=1.00, time=238.70.
+Warning: Vehicle 'car_26'; junction collision with vehicle 'car_7', lane=':J8_19_1', gap=-1.00, latGap=0.00, time=238.90, stage=move.
+Warning: Vehicle 'motorcycle_320' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=239.10.
+Warning: Vehicle 'motorcycle_319' performs emergency braking on lane 'J3_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=244.90.
+Warning: Vehicle 'motorcycle_374' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=245.60.
+Warning: Vehicle 'motorcycle_77' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=249.30.
+Warning: Vehicle 'motorcycle_416' performs emergency braking on lane 'J8_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=255.00.
+Warning: Vehicle 'motorcycle_214'; side collision with vehicle 'motorcycle_329', lane=':J4_1_1', gap=-1.00, latGap=0.00, time=256.30, stage=laneChange.
+Warning: Vehicle 'motorcycle_316' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=258.10.
+Warning: Vehicle 'motorcycle_353' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=262.70.
+Warning: Vehicle 'motorcycle_457' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=262.70.
+Warning: Vehicle 'motorcycle_492' performs emergency braking on lane 'N_out_1_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=269.00.
+Warning: Vehicle 'motorcycle_322' performs emergency braking on lane 'J4_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=269.60.
+Warning: Vehicle 'motorcycle_249' performs emergency braking on lane ':J3_13_0' with decel=10.00, wished=4.50, severity=1.00, time=270.90.
+Warning: Vehicle 'motorcycle_238' performs emergency braking on lane 'J7_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=272.00.
+Warning: Vehicle 'motorcycle_271' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=275.80.
+Warning: Vehicle 'motorcycle_118' performs emergency braking on lane ':J3_13_0' with decel=10.00, wished=4.50, severity=1.00, time=277.50.
+Warning: Vehicle 'motorcycle_514' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=277.80.
+Warning: Vehicle 'motorcycle_511' performs emergency braking on lane 'N_out_7_to_J7_0' with decel=10.00, wished=4.50, severity=1.00, time=280.60.
+Warning: Vehicle 'motorcycle_482' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=281.50.
+Warning: Vehicle 'motorcycle_413' performs emergency braking on lane 'J7_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=282.40.
+Warning: Vehicle 'motorcycle_390' performs emergency braking on lane ':J7_4_0' with decel=10.00, wished=4.50, severity=1.00, time=282.50.
+Warning: Vehicle 'motorcycle_153' performs emergency braking on lane 'J6_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=283.10.
+Warning: Vehicle 'motorcycle_276' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=285.10.
+Warning: Vehicle 'motorcycle_316' performs emergency braking on lane 'J2_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=285.80.
+Warning: Vehicle 'motorcycle_291' performs emergency braking on lane 'J4_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=285.90.
+Warning: Vehicle 'motorcycle_291'; junction collision with vehicle 'motorcycle_371', lane=':J1_13_0', gap=-1.00, latGap=0.00, time=286.00, stage=move.
+Warning: Vehicle 'motorcycle_450' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=287.30.
+Warning: Vehicle 'motorcycle_372' performs emergency braking on lane 'J6_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=287.90.
+Warning: Vehicle 'motorcycle_446' performs emergency braking on lane 'J4_to_J7_1' with decel=10.00, wished=4.50, severity=1.00, time=287.90.
+Warning: Vehicle 'motorcycle_495' performs emergency braking on lane ':J3_13_0' with decel=10.00, wished=4.50, severity=1.00, time=289.50.
+Warning: Vehicle 'motorcycle_492' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=289.70.
+Warning: Vehicle 'motorcycle_33' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=292.20.
+Warning: Vehicle 'motorcycle_249' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=295.90.
+Warning: Vehicle 'motorcycle_415' performs emergency braking on lane 'J4_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=296.70.
+Warning: Vehicle 'motorcycle_459' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=297.90.
+Warning: Vehicle 'motorcycle_398' performs emergency braking on lane 'J3_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=298.90.
+Warning: Vehicle 'motorcycle_567' performs emergency braking on lane 'N_out_7_to_J7_0' with decel=10.00, wished=4.50, severity=1.00, time=304.60.
+Warning: Vehicle 'motorcycle_448' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=306.60.
+Warning: Vehicle 'motorcycle_276' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=308.10.
+Warning: Vehicle 'motorcycle_530' performs emergency braking on lane 'J7_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=310.50.
+Warning: Vehicle 'motorcycle_389' performs emergency braking on lane 'J9_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=310.50.
+Warning: Vehicle 'motorcycle_240' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=310.60.
+Warning: Vehicle 'motorcycle_276' performs emergency braking on lane 'J9_to_J8_1' with decel=10.00, wished=4.50, severity=1.00, time=311.90.
+Warning: Vehicle 'motorcycle_237' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=314.10.
+Warning: Vehicle 'motorcycle_525' performs emergency braking on lane ':J3_8_0' with decel=10.00, wished=4.50, severity=1.00, time=315.90.
+Warning: Vehicle 'motorcycle_212' performs emergency braking on lane ':J2_17_1' with decel=10.00, wished=4.50, severity=1.00, time=315.90.
+Warning: Vehicle 'motorcycle_509' performs emergency braking on lane ':J1_8_0' with decel=10.00, wished=4.50, severity=1.00, time=315.90.
+Warning: Vehicle 'motorcycle_540' performs emergency braking on lane 'J9_to_J6_1' with decel=10.00, wished=4.50, severity=1.00, time=316.70.
+Warning: Vehicle 'motorcycle_451' performs emergency braking on lane ':J6_11_0' with decel=10.00, wished=4.50, severity=1.00, time=318.30.
+Warning: Vehicle 'motorcycle_371' performs emergency braking on lane 'J1_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=318.40.
+Warning: Vehicle 'motorcycle_509'; junction collision with vehicle 'motorcycle_565', lane=':J1_8_0', gap=-1.00, latGap=0.00, time=319.00, stage=move.
+Warning: Vehicle 'motorcycle_514' performs emergency braking on lane ':J2_7_0' with decel=10.00, wished=4.50, severity=1.00, time=319.20.
+Warning: Vehicle 'motorcycle_371' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=319.60.
+Warning: Vehicle 'car_56'; junction collision with vehicle 'car_12', lane=':J8_21_0', gap=-1.00, latGap=0.00, time=319.70, stage=move.
+Warning: Vehicle 'motorcycle_240' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=320.10.
+Warning: Vehicle 'motorcycle_398' performs emergency braking on lane 'J3_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=320.20.
+Warning: Vehicle 'motorcycle_240' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=321.40.
+Warning: Vehicle 'motorcycle_435' performs emergency braking on lane 'J8_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=322.10.
+Warning: Vehicle 'motorcycle_538' performs emergency braking on lane 'J9_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=322.20.
+Warning: Vehicle 'motorcycle_217' performs emergency braking on lane 'J1_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=322.60.
+Warning: Vehicle 'motorcycle_438' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=323.90.
+Warning: Vehicle 'motorcycle_546' performs emergency braking on lane 'J7_to_J4_0' with decel=10.00, wished=4.50, severity=1.00, time=324.00.
+Warning: Vehicle 'motorcycle_452' performs emergency braking on lane 'J7_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=324.30.
+Warning: Vehicle 'motorcycle_248' performs emergency braking on lane 'J2_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=324.50.
+Warning: Vehicle 'motorcycle_249' performs emergency braking on lane 'J2_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=325.20.
+Warning: Vehicle 'motorcycle_325' performs emergency braking on lane 'J1_to_J4_1' with decel=10.00, wished=4.50, severity=1.00, time=325.90.
+Warning: Vehicle 'motorcycle_402' performs emergency braking on lane 'J1_to_J2_1' with decel=10.00, wished=4.50, severity=1.00, time=335.70.
+Warning: Vehicle 'motorcycle_618'; junction collision with vehicle 'motorcycle_570', lane=':J1_8_0', gap=-1.00, latGap=0.00, time=337.10, stage=move.
+Warning: Vehicle 'motorcycle_532' performs emergency braking on lane 'J1_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=337.90.
+Warning: Vehicle 'motorcycle_260' performs emergency braking on lane 'J4_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=339.00.
+Warning: Vehicle 'motorcycle_249' performs emergency braking on lane 'J2_to_J1_0' with decel=10.00, wished=4.50, severity=1.00, time=341.10.
+Warning: Vehicle 'motorcycle_275'; junction collision with vehicle 'motorcycle_198', lane=':J6_1_1', gap=-1.00, latGap=0.00, time=342.80, stage=move.
+Warning: Vehicle 'motorcycle_344' performs emergency braking on lane 'J7_to_J8_0' with decel=10.00, wished=4.50, severity=1.00, time=343.60.
+Warning: Vehicle 'motorcycle_331' performs emergency braking on lane 'J2_to_J1_1' with decel=10.00, wished=4.50, severity=1.00, time=345.60.
+Warning: Vehicle 'motorcycle_329' performs emergency braking on lane 'J2_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=346.80.
+Warning: Vehicle 'motorcycle_462'; junction collision with vehicle 'motorcycle_574', lane=':J3_16_1', gap=-1.00, latGap=0.00, time=347.00, stage=move.
+Warning: Vehicle 'motorcycle_487' performs emergency braking on lane 'J2_to_J3_1' with decel=10.00, wished=4.50, severity=1.00, time=347.10.
+Warning: Vehicle 'motorcycle_645' performs emergency braking on lane 'J3_to_J2_0' with decel=10.00, wished=4.50, severity=1.00, time=349.20.
+Warning: Vehicle 'car_76' performs emergency braking on lane ':J5_11_0' with decel=9.00, wished=4.50, severity=1.00, time=349.80.
+Warning: Vehicle 'motorcycle_239' performs emergency braking on lane 'J4_to_J7_0' with decel=10.00, wished=4.50, severity=1.00, time=350.30.
+Warning: Vehicle 'motorcycle_549' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=351.20.
+Warning: Vehicle 'motorcycle_488' performs emergency braking on lane 'J3_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=351.90.
+Warning: Vehicle 'motorcycle_560' performs emergency braking on lane 'J6_to_J9_1' with decel=10.00, wished=4.50, severity=1.00, time=353.60.
+Warning: Vehicle 'motorcycle_484' performs emergency braking on lane 'J9_to_J6_0' with decel=10.00, wished=4.50, severity=1.00, time=353.90.
+Simulation ended at time: 354.00.
+Performance:
+ Duration: 38.80s
+ Real time factor: 9.12465
+ UPS: 26178.678214
+Vehicles:
+ Inserted: 833 (Loaded: 955)
+ Running: 415
+ Waiting: 3
+ Teleports: 0 (Collisions: 22)
+ Emergency Braking: 162
+Statistics (avg of 418):
+ RouteLength: 773.63
+ Speed: 6.20
+ Duration: 138.40
+ WaitingTime: 40.40
+ TimeLoss: 67.70
+ DepartDelay: 0.34
+DijkstraRouter answered 836 queries and explored 22.37 edges on average.
+DijkstraRouter spent 0.03s answering queries (0.04ms on average).

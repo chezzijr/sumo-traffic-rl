@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-10-09 20:13:57.990256 by randomTrips.py UNKNOWN
+<configuration>
+    <net-file value="vn.net.xml"/>
+    <output-trip-file value="vn.truck.trips.xml"/>
+    <prefix value="truck_"/>
+    <trip-attributes value="type=&quot;truck&quot;"/>
+    <fringe-factor value="5"/>
+    <edge-permission value="truck"/>
+    <period value="40.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="truck_0" depart="0.00" from="N_out_4_to_J4" to="J2_to_J5" type="truck"/>
+    <trip id="truck_1" depart="40.00" from="J8_to_J5" to="J4_to_J5" type="truck"/>
+    <trip id="truck_2" depart="80.00" from="N_out_6_to_J6" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_3" depart="120.00" from="N_out_8_to_J8" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_4" depart="160.00" from="N_out_2_to_J2" to="J2_to_J5" type="truck"/>
+    <trip id="truck_5" depart="200.00" from="J6_to_J5" to="J5_to_J6" type="truck"/>
+    <trip id="truck_6" depart="240.00" from="J2_to_J5" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_7" depart="280.00" from="N_out_6_to_J6" to="J5_to_J8" type="truck"/>
+    <trip id="truck_8" depart="320.00" from="J6_to_J5" to="J6_to_J5" type="truck"/>
+    <trip id="truck_9" depart="360.00" from="N_out_6_to_J6" to="J2_to_J5" type="truck"/>
+    <trip id="truck_10" depart="400.00" from="N_out_6_to_J6" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_11" depart="440.00" from="N_out_2_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_12" depart="480.00" from="N_out_8_to_J8" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_13" depart="520.00" from="J5_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_14" depart="560.00" from="N_out_8_to_J8" to="J6_to_J5" type="truck"/>
+    <trip id="truck_15" depart="600.00" from="N_out_6_to_J6" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_16" depart="640.00" from="N_out_4_to_J4" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_17" depart="680.00" from="N_out_2_to_J2" to="J5_to_J8" type="truck"/>
+    <trip id="truck_18" depart="720.00" from="N_out_8_to_J8" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_19" depart="760.00" from="N_out_8_to_J8" to="J6_to_J5" type="truck"/>
+    <trip id="truck_20" depart="800.00" from="N_out_6_to_J6" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_21" depart="840.00" from="J6_to_J5" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_22" depart="880.00" from="J5_to_J2" to="J4_to_J5" type="truck"/>
+    <trip id="truck_23" depart="920.00" from="J5_to_J2" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_24" depart="960.00" from="N_out_4_to_J4" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_25" depart="1000.00" from="N_out_2_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_26" depart="1040.00" from="J8_to_J5" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_27" depart="1080.00" from="N_out_6_to_J6" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_28" depart="1120.00" from="J5_to_J6" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_29" depart="1160.00" from="J5_to_J6" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_30" depart="1200.00" from="N_out_8_to_J8" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_31" depart="1240.00" from="N_out_4_to_J4" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_32" depart="1280.00" from="N_out_8_to_J8" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_33" depart="1320.00" from="J6_to_J5" to="J2_to_J5" type="truck"/>
+    <trip id="truck_34" depart="1360.00" from="N_out_2_to_J2" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_35" depart="1400.00" from="J5_to_J8" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_36" depart="1440.00" from="N_out_8_to_J8" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_37" depart="1480.00" from="N_out_6_to_J6" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_38" depart="1520.00" from="N_out_8_to_J8" to="J5_to_J2" type="truck"/>
+    <trip id="truck_39" depart="1560.00" from="J8_to_J5" to="J4_to_J5" type="truck"/>
+    <trip id="truck_40" depart="1600.00" from="N_out_4_to_J4" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_41" depart="1640.00" from="N_out_4_to_J4" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_42" depart="1680.00" from="N_out_2_to_J2" to="J4_to_J5" type="truck"/>
+    <trip id="truck_43" depart="1720.00" from="N_out_8_to_J8" to="J5_to_J6" type="truck"/>
+    <trip id="truck_44" depart="1760.00" from="J5_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_45" depart="1800.00" from="J5_to_J4" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_46" depart="1840.00" from="N_out_6_to_J6" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_47" depart="1880.00" from="J4_to_J5" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_48" depart="1920.00" from="N_out_8_to_J8" to="J5_to_J6" type="truck"/>
+    <trip id="truck_49" depart="1960.00" from="N_out_8_to_J8" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_50" depart="2000.00" from="J2_to_J5" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_51" depart="2040.00" from="N_out_6_to_J6" to="J5_to_J8" type="truck"/>
+    <trip id="truck_52" depart="2080.00" from="J8_to_J5" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_53" depart="2120.00" from="J5_to_J4" to="J5_to_J2" type="truck"/>
+    <trip id="truck_54" depart="2160.00" from="N_out_2_to_J2" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_55" depart="2200.00" from="N_out_8_to_J8" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_56" depart="2240.00" from="N_out_4_to_J4" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_57" depart="2280.00" from="N_out_8_to_J8" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_58" depart="2320.00" from="N_out_2_to_J2" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_59" depart="2360.00" from="N_out_4_to_J4" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_60" depart="2400.00" from="N_out_6_to_J6" to="J5_to_J8" type="truck"/>
+    <trip id="truck_61" depart="2440.00" from="N_out_6_to_J6" to="J5_to_J6" type="truck"/>
+    <trip id="truck_62" depart="2480.00" from="J2_to_J5" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_63" depart="2520.00" from="J2_to_J5" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_64" depart="2560.00" from="N_out_8_to_J8" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_65" depart="2600.00" from="N_out_2_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_66" depart="2640.00" from="N_out_8_to_J8" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_67" depart="2680.00" from="J5_to_J2" to="J5_to_J4" type="truck"/>
+    <trip id="truck_68" depart="2720.00" from="J4_to_J5" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_69" depart="2760.00" from="N_out_6_to_J6" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_70" depart="2800.00" from="N_out_4_to_J4" to="J5_to_J8" type="truck"/>
+    <trip id="truck_71" depart="2840.00" from="J8_to_J5" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_72" depart="2880.00" from="N_out_2_to_J2" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_73" depart="2920.00" from="N_out_4_to_J4" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_74" depart="2960.00" from="J5_to_J8" to="J4_to_N_out_4" type="truck"/>
+    <trip id="truck_75" depart="3000.00" from="N_out_8_to_J8" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_76" depart="3040.00" from="N_out_2_to_J2" to="J5_to_J6" type="truck"/>
+    <trip id="truck_77" depart="3080.00" from="J5_to_J4" to="J4_to_J5" type="truck"/>
+    <trip id="truck_78" depart="3120.00" from="N_out_2_to_J2" to="J6_to_J5" type="truck"/>
+    <trip id="truck_79" depart="3160.00" from="J6_to_J5" to="J4_to_J5" type="truck"/>
+    <trip id="truck_80" depart="3200.00" from="J4_to_J5" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_81" depart="3240.00" from="J6_to_J5" to="J8_to_N_out_8" type="truck"/>
+    <trip id="truck_82" depart="3280.00" from="N_out_8_to_J8" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_83" depart="3320.00" from="J6_to_J5" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_84" depart="3360.00" from="J5_to_J8" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_85" depart="3400.00" from="N_out_8_to_J8" to="J5_to_J8" type="truck"/>
+    <trip id="truck_86" depart="3440.00" from="N_out_4_to_J4" to="J6_to_N_out_6" type="truck"/>
+    <trip id="truck_87" depart="3480.00" from="N_out_6_to_J6" to="J2_to_N_out_2" type="truck"/>
+    <trip id="truck_88" depart="3520.00" from="J5_to_J2" to="J5_to_J2" type="truck"/>
+    <trip id="truck_89" depart="3560.00" from="N_out_2_to_J2" to="J5_to_J4" type="truck"/>
+</routes>

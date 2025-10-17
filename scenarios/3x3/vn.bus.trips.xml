@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-10-09 20:13:57.666635 by randomTrips.py UNKNOWN
+<configuration>
+    <net-file value="vn.net.xml"/>
+    <output-trip-file value="vn.bus.trips.xml"/>
+    <prefix value="bus_"/>
+    <trip-attributes value="type='bus'"/>
+    <period value="30.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="bus_0" depart="0.00" from="J9_to_J8" to="J1_to_J2" type='bus'/>
+    <trip id="bus_1" depart="30.00" from="J4_to_J7" to="J3_to_J2" type='bus'/>
+    <trip id="bus_2" depart="60.00" from="N_out_2_to_J2" to="J7_to_J4" type='bus'/>
+    <trip id="bus_3" depart="90.00" from="N_out_7s_to_J7" to="J1_to_N_out_1w" type='bus'/>
+    <trip id="bus_4" depart="120.00" from="J6_to_J5" to="J1_to_J4" type='bus'/>
+    <trip id="bus_5" depart="150.00" from="J4_to_J1" to="J5_to_J6" type='bus'/>
+    <trip id="bus_6" depart="180.00" from="J1_to_J2" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_7" depart="210.00" from="J9_to_J8" to="J5_to_J8" type='bus'/>
+    <trip id="bus_8" depart="240.00" from="J4_to_J1" to="J6_to_J5" type='bus'/>
+    <trip id="bus_9" depart="270.00" from="N_out_4_to_J4" to="J1_to_J2" type='bus'/>
+    <trip id="bus_10" depart="300.00" from="N_out_4_to_J4" to="J7_to_J8" type='bus'/>
+    <trip id="bus_11" depart="330.00" from="J5_to_J6" to="J2_to_J3" type='bus'/>
+    <trip id="bus_12" depart="360.00" from="N_out_9_to_J9" to="J4_to_J1" type='bus'/>
+    <trip id="bus_13" depart="390.00" from="J2_to_J3" to="J1_to_N_out_1w" type='bus'/>
+    <trip id="bus_14" depart="420.00" from="N_out_6_to_J6" to="J6_to_J5" type='bus'/>
+    <trip id="bus_15" depart="450.00" from="N_out_4_to_J4" to="J7_to_N_out_7" type='bus'/>
+    <trip id="bus_16" depart="480.00" from="J8_to_J5" to="J9_to_N_out_9s" type='bus'/>
+    <trip id="bus_17" depart="510.00" from="J5_to_J8" to="J5_to_J8" type='bus'/>
+    <trip id="bus_18" depart="540.00" from="N_out_4_to_J4" to="J6_to_J9" type='bus'/>
+    <trip id="bus_19" depart="570.00" from="N_out_7_to_J7" to="J6_to_J3" type='bus'/>
+    <trip id="bus_20" depart="600.00" from="N_out_1w_to_J1" to="J1_to_J4" type='bus'/>
+    <trip id="bus_21" depart="630.00" from="J4_to_J5" to="J3_to_N_out_3" type='bus'/>
+    <trip id="bus_22" depart="660.00" from="J2_to_J1" to="J3_to_J2" type='bus'/>
+    <trip id="bus_23" depart="690.00" from="J2_to_J3" to="J3_to_N_out_3" type='bus'/>
+    <trip id="bus_24" depart="720.00" from="J9_to_J6" to="J4_to_J5" type='bus'/>
+    <trip id="bus_25" depart="750.00" from="J5_to_J8" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_26" depart="780.00" from="J4_to_J7" to="J9_to_J8" type='bus'/>
+    <trip id="bus_27" depart="810.00" from="J9_to_J8" to="J6_to_J5" type='bus'/>
+    <trip id="bus_28" depart="840.00" from="J3_to_J6" to="J7_to_N_out_7" type='bus'/>
+    <trip id="bus_29" depart="870.00" from="J3_to_J2" to="J4_to_J5" type='bus'/>
+    <trip id="bus_30" depart="900.00" from="N_out_9s_to_J9" to="J6_to_N_out_6" type='bus'/>
+    <trip id="bus_31" depart="930.00" from="J8_to_J7" to="J7_to_J4" type='bus'/>
+    <trip id="bus_32" depart="960.00" from="N_out_6_to_J6" to="J7_to_N_out_7s" type='bus'/>
+    <trip id="bus_33" depart="990.00" from="J4_to_J5" to="J1_to_J4" type='bus'/>
+    <trip id="bus_34" depart="1020.00" from="J5_to_J4" to="J3_to_J6" type='bus'/>
+    <trip id="bus_35" depart="1050.00" from="J4_to_J1" to="J9_to_J8" type='bus'/>
+    <trip id="bus_36" depart="1080.00" from="N_out_7_to_J7" to="J3_to_N_out_3e" type='bus'/>
+    <trip id="bus_37" depart="1110.00" from="J9_to_J8" to="J4_to_J7" type='bus'/>
+    <trip id="bus_38" depart="1140.00" from="N_out_7s_to_J7" to="J5_to_J2" type='bus'/>
+    <trip id="bus_39" depart="1170.00" from="J4_to_J7" to="J3_to_J2" type='bus'/>
+    <trip id="bus_40" depart="1200.00" from="J8_to_J7" to="J3_to_J6" type='bus'/>
+    <trip id="bus_41" depart="1230.00" from="J8_to_J9" to="J9_to_J6" type='bus'/>
+    <trip id="bus_42" depart="1260.00" from="J6_to_J3" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_43" depart="1290.00" from="N_out_9s_to_J9" to="J5_to_J6" type='bus'/>
+    <trip id="bus_44" depart="1320.00" from="J2_to_J3" to="J1_to_J4" type='bus'/>
+    <trip id="bus_45" depart="1350.00" from="J2_to_J3" to="J6_to_J9" type='bus'/>
+    <trip id="bus_46" depart="1380.00" from="N_out_3e_to_J3" to="J4_to_N_out_4" type='bus'/>
+    <trip id="bus_47" depart="1410.00" from="J2_to_J1" to="J4_to_J5" type='bus'/>
+    <trip id="bus_48" depart="1440.00" from="N_out_9s_to_J9" to="J5_to_J8" type='bus'/>
+    <trip id="bus_49" depart="1470.00" from="N_out_9_to_J9" to="J8_to_J9" type='bus'/>
+    <trip id="bus_50" depart="1500.00" from="J1_to_J2" to="J7_to_J8" type='bus'/>
+    <trip id="bus_51" depart="1530.00" from="N_out_1_to_J1" to="J5_to_J8" type='bus'/>
+    <trip id="bus_52" depart="1560.00" from="J4_to_J7" to="J6_to_N_out_6" type='bus'/>
+    <trip id="bus_53" depart="1590.00" from="J2_to_J5" to="J4_to_N_out_4" type='bus'/>
+    <trip id="bus_54" depart="1620.00" from="J6_to_J9" to="J9_to_N_out_9" type='bus'/>
+    <trip id="bus_55" depart="1650.00" from="N_out_7_to_J7" to="J3_to_J6" type='bus'/>
+    <trip id="bus_56" depart="1680.00" from="J7_to_J8" to="J2_to_J5" type='bus'/>
+    <trip id="bus_57" depart="1710.00" from="N_out_7s_to_J7" to="J8_to_N_out_8" type='bus'/>
+    <trip id="bus_58" depart="1740.00" from="J5_to_J2" to="J6_to_N_out_6" type='bus'/>
+    <trip id="bus_59" depart="1770.00" from="J8_to_J9" to="J2_to_J3" type='bus'/>
+    <trip id="bus_60" depart="1800.00" from="N_out_3_to_J3" to="J5_to_J8" type='bus'/>
+    <trip id="bus_61" depart="1830.00" from="N_out_3e_to_J3" to="J5_to_J8" type='bus'/>
+    <trip id="bus_62" depart="1860.00" from="J1_to_J2" to="J3_to_N_out_3e" type='bus'/>
+    <trip id="bus_63" depart="1890.00" from="J1_to_J2" to="J9_to_J8" type='bus'/>
+    <trip id="bus_64" depart="1920.00" from="N_out_7_to_J7" to="J8_to_J7" type='bus'/>
+    <trip id="bus_65" depart="1950.00" from="J5_to_J4" to="J1_to_N_out_1" type='bus'/>
+    <trip id="bus_66" depart="1980.00" from="N_out_7_to_J7" to="J9_to_N_out_9" type='bus'/>
+    <trip id="bus_67" depart="2010.00" from="J2_to_J3" to="J5_to_J4" type='bus'/>
+    <trip id="bus_68" depart="2040.00" from="J2_to_J1" to="J7_to_N_out_7s" type='bus'/>
+    <trip id="bus_69" depart="2070.00" from="N_out_3_to_J3" to="J2_to_J1" type='bus'/>
+    <trip id="bus_70" depart="2100.00" from="J7_to_J4" to="J5_to_J8" type='bus'/>
+    <trip id="bus_71" depart="2130.00" from="J4_to_J7" to="J8_to_N_out_8" type='bus'/>
+    <trip id="bus_72" depart="2160.00" from="J6_to_J5" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_73" depart="2190.00" from="J8_to_J5" to="J7_to_N_out_7" type='bus'/>
+    <trip id="bus_74" depart="2220.00" from="J4_to_J1" to="J3_to_N_out_3e" type='bus'/>
+    <trip id="bus_75" depart="2250.00" from="N_out_9s_to_J9" to="J6_to_N_out_6" type='bus'/>
+    <trip id="bus_76" depart="2280.00" from="J6_to_J5" to="J5_to_J6" type='bus'/>
+    <trip id="bus_77" depart="2310.00" from="J2_to_J5" to="J3_to_J2" type='bus'/>
+    <trip id="bus_78" depart="2340.00" from="J5_to_J6" to="J6_to_J5" type='bus'/>
+    <trip id="bus_79" depart="2370.00" from="J4_to_J5" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_80" depart="2400.00" from="J2_to_J1" to="J6_to_J9" type='bus'/>
+    <trip id="bus_81" depart="2430.00" from="J4_to_J5" to="J9_to_J6" type='bus'/>
+    <trip id="bus_82" depart="2460.00" from="N_out_6_to_J6" to="J1_to_N_out_1" type='bus'/>
+    <trip id="bus_83" depart="2490.00" from="J4_to_J5" to="J7_to_J4" type='bus'/>
+    <trip id="bus_84" depart="2520.00" from="J4_to_J1" to="J2_to_J1" type='bus'/>
+    <trip id="bus_85" depart="2550.00" from="N_out_8_to_J8" to="J6_to_J3" type='bus'/>
+    <trip id="bus_86" depart="2580.00" from="J7_to_J4" to="J8_to_J5" type='bus'/>
+    <trip id="bus_87" depart="2610.00" from="N_out_4_to_J4" to="J2_to_J5" type='bus'/>
+    <trip id="bus_88" depart="2640.00" from="J2_to_J3" to="J4_to_N_out_4" type='bus'/>
+    <trip id="bus_89" depart="2670.00" from="J6_to_J5" to="J5_to_J2" type='bus'/>
+    <trip id="bus_90" depart="2700.00" from="N_out_2_to_J2" to="J7_to_J4" type='bus'/>
+    <trip id="bus_91" depart="2730.00" from="N_out_9s_to_J9" to="J1_to_N_out_1w" type='bus'/>
+    <trip id="bus_92" depart="2760.00" from="J6_to_J3" to="J4_to_J1" type='bus'/>
+    <trip id="bus_93" depart="2790.00" from="N_out_7_to_J7" to="J3_to_J2" type='bus'/>
+    <trip id="bus_94" depart="2820.00" from="J3_to_J6" to="J5_to_J2" type='bus'/>
+    <trip id="bus_95" depart="2850.00" from="J6_to_J5" to="J3_to_N_out_3" type='bus'/>
+    <trip id="bus_96" depart="2880.00" from="J4_to_J5" to="J9_to_J8" type='bus'/>
+    <trip id="bus_97" depart="2910.00" from="J6_to_J5" to="J8_to_N_out_8" type='bus'/>
+    <trip id="bus_98" depart="2940.00" from="J8_to_J5" to="J1_to_J4" type='bus'/>
+    <trip id="bus_99" depart="2970.00" from="N_out_9s_to_J9" to="J8_to_J9" type='bus'/>
+    <trip id="bus_100" depart="3000.00" from="N_out_9_to_J9" to="J9_to_J8" type='bus'/>
+    <trip id="bus_101" depart="3030.00" from="N_out_6_to_J6" to="J2_to_J3" type='bus'/>
+    <trip id="bus_102" depart="3060.00" from="J7_to_J4" to="J2_to_N_out_2" type='bus'/>
+    <trip id="bus_103" depart="3090.00" from="J6_to_J3" to="J1_to_N_out_1" type='bus'/>
+    <trip id="bus_104" depart="3120.00" from="J5_to_J8" to="J9_to_N_out_9s" type='bus'/>
+    <trip id="bus_105" depart="3150.00" from="J4_to_J7" to="J8_to_J5" type='bus'/>
+    <trip id="bus_106" depart="3180.00" from="J6_to_J9" to="J4_to_N_out_4" type='bus'/>
+    <trip id="bus_107" depart="3210.00" from="N_out_9_to_J9" to="J9_to_N_out_9s" type='bus'/>
+    <trip id="bus_108" depart="3240.00" from="J8_to_J7" to="J7_to_J8" type='bus'/>
+    <trip id="bus_109" depart="3270.00" from="J3_to_J2" to="J3_to_N_out_3" type='bus'/>
+    <trip id="bus_110" depart="3300.00" from="N_out_9_to_J9" to="J6_to_J3" type='bus'/>
+    <trip id="bus_111" depart="3330.00" from="J8_to_J5" to="J7_to_N_out_7" type='bus'/>
+    <trip id="bus_112" depart="3360.00" from="J2_to_J1" to="J6_to_J5" type='bus'/>
+    <trip id="bus_113" depart="3390.00" from="J7_to_J8" to="J8_to_J9" type='bus'/>
+    <trip id="bus_114" depart="3420.00" from="J3_to_J2" to="J9_to_N_out_9" type='bus'/>
+    <trip id="bus_115" depart="3450.00" from="J2_to_J1" to="J2_to_J5" type='bus'/>
+    <trip id="bus_116" depart="3480.00" from="J8_to_J9" to="J7_to_J4" type='bus'/>
+    <trip id="bus_117" depart="3510.00" from="J4_to_J5" to="J2_to_J1" type='bus'/>
+    <trip id="bus_118" depart="3540.00" from="N_out_7s_to_J7" to="J3_to_J2" type='bus'/>
+    <trip id="bus_119" depart="3570.00" from="J8_to_J9" to="J6_to_J9" type='bus'/>
+</routes>
